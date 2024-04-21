@@ -39,21 +39,19 @@ const App = () => {
           </Text>
           <Subheading>What is Data & Analytics (DNA)?</Subheading>
           <Text>
-            The Business Banking Hub is an ongoing project which will be used between business clients and workers at TD. The project serves as a separate banking platform/service for businesses. It is used to support and meet
-            the financial need of businesses, which can vary from large corporations to small businesses.
-            With my time at TD Bank, I was primarily working on the Business Banking Hub project, specifically with the Credit team.
+            Data & Analytics, also known as DNA, is a team that is involved in many projects. The DNA team is focusing on leveraging AI to drive solutions to many of the problems that RBC has in technology. The team is comprised of more than 200 employees who all work on the development and integration of AI into our workflows. One of the major focuses from the team is NOVA, which is a legacy system and code migration service using AI and prompt engineering. Another big focus was Emerald, which was the team responsible for the HSBC acquisition and providing a smooth carry-over from one bank to another. The other big focus is the management, use and monitoring of big data.
           </Text>
           <Subheading>Interesting Facts</Subheading>
-          <Text><Numbered>•</Numbered> TD Bank was founded as early as the 1855s.</Text>
-          <Text><Numbered>•</Numbered> Their office is located in Downtown Toronto, with 5 main tower buildings - work commutes are mandatory on Wednesdays.</Text>
-          <Text id="info-section"><Numbered>•</Numbered>The Business Banking Hub team consists of 3 teams that specialize in a specific aspect of the project, named PODs.</Text>
+          <Text><Numbered>•</Numbered> RBC was founded in 1864.</Text>
+          <Text><Numbered>•</Numbered> Their office is located in Downtown Toronto, with more than 5 tower buildings spanning around Union Station.</Text>
+          <Text id="info-section"><Numbered>•</Numbered>RBC recently made one of the biggest company acquisitions in Canada, by acquiring HSBC.</Text>
         </Section>
 
         <Section>
           <Heading>Goals</Heading>
           <Text>
-            Heading into my second work term working as a Quality Engineer (different job position than my first co-op), I decided to make more general goals as I was unsure of what to expect. For me, the main goal while
-            working as a Quality Engineer was to learn about the responsibilities, tasks and lifestyle of working as a full-time Quality Engineer - I wanted to explore if being a Quality Engineer was a career or job that was suitable for me in the future. With the goals that I set, I was aiming to align them with the company's goals,
+            Heading into my third work term working as a Developer, I was hesitant as I knew that this role involved the use of AI, but I was super excited to learn. Since I had no prior knowledge of AI when heading into this term, I was unsure of what to expect. 
+            For me, the main goal was to as learn much as possible about AI and to become highly knowledgable in it, as I believe it will be very valuable experience for the future. With the goals that I set, I was aiming to align them with the company's goals,
             while still allowing myself to grow and develop.
           </Text>
           <hr></hr>
@@ -61,23 +59,21 @@ const App = () => {
 
           <Text><Numbered>•</Numbered>	Improve my communication skills working in a team environment, and to build connections with coworkers</Text>
           <Text><Numbered>•</Numbered>	Learn new technologies and skills to improve my knowledge and skills in the software industry</Text>
-          <Text><Numbered>•</Numbered>	Improve my problem identification and solving skills</Text>
+          <Text><Numbered>•</Numbered>	Take initiative in finding new and better ways to solve problems</Text>
 
           <hr></hr>
           <Text>
-          Through my four months working with the team at TD Bank, I was able to successfully complete the goals that I set. I saw significant improvement in all the goals that I set and am happy with the outcome of my learnings!
-          The goal that I am most satisfied with in this work term is my acquired knowledge in new and different technologies and software tools. 
-          Learning new skills and expanding my knowledge in technologies will definitely benefit me in the future, as I can use them to transition easier and contribute more in future roles!
-
+          In the past fourth months working at RBC, I believe I made tons of progress and successfully completed the goals that I set. I made significant improvements in all the goals that I set and am happy with the outcome of my learnings!
+          The goal that I am most satisfied with in this work term is my acquired knowledge in AI and all the new cutting-edge technology related to AI. 
+          Learning skills and how to leverage AI will definitely benefit me in the future, as I can use this knowledge and experience to drive more solution, contribute more and transition earier in my future roles!
           </Text>
 
           <Text id="goals-section"> 
-            The technologies I wanted to learn the most were Java, Selenium, Gherkin, and Cucumber. I wanted to use these technologies as I did not have much knowledge and experience in them before, and it would
-            have helped me achieve my goal of learning new technologies. I was most interested in learning how to use Java at a more advanced level since it is one of the biggest and most popular languages used.
-            The only experience I had using Java in the past was in CIS*2430 - Object Oriented Programming, and it was very insightful to learn how to use Java at a higher level,
-            especially at the scale that TD Bank uses it! I also learnt how to use software tools such as JIRA, JTMF and Jenkins. Learning how to use different software tools was very interesting and insightful as it showed the different
-            processes and procedures that were needed to complete tasks. Overall, I am very happy with my progress and having the opportunity to learn and use Java at a higher level! Many other companies use the Java language
-            and it can be beneficial or advantageous to have that knowledge in the future.
+            The technologies I wanted to learn the most were Python, Java, Scala, as well as concepts related to AI and prompt engineering. I wanted to use these technologies as I did not have much knowledge and experience in them before, and I believed they
+            would be valuable skills to learn for the future, especially with all the rave and demand for AI in this age of technology. Since the start of my work term, I have learned all the fundamental and advanced concepts of prompt engineering and prompting techniques.
+            I have also learned how to use Python for AI development and how to pair it with OpenAI, Langchain and additional frameworks to run AI models to solve and answer questions. I've also learned how to integrate frameworks into Python
+            and gateways, with successful integration of PromptFoo and MLFlow to evalaute responses from an LLM (large-language-model). I have also learned Docker and containerization which will be valuable for other roles in the future as well.
+            Although I did not get to use Java and Scala, I am extremely satisfied wtih my progress and the opportunity to learn and hone my knowledge in AI development!
           </Text>
 
         </Section>
@@ -85,52 +81,51 @@ const App = () => {
         <Section>
           <Heading>Job Description</Heading>
           <Text>
-            My time at TD Bank was entirely in the Business Banking Hub team, specifically in the Credit POD. Throughout the entire work term, I was given a primary task to be completed, but I was also assigned minor or small tasks to complete on the side as well.
-            At first, I was assigned a roadmap (which contains the work to be completed week-by-week), but the plans of the roadmap changed due to the circumstances of the work that was assigned. In response, a new roadmap was created, which was what I focused on completing!
+            My time at RBC was entirely in the NOVA team under DNA. The sole focus of this team and project was to deliver a legacy code migration service, allowing users to accurate convert code from one language to another.
+            For the entire work term, I focused on the research, implementation, and development of AI for many different tasks and projects. As this role is more research & development (R&D) centric, there are less quantifiable deliverables.
+                   
           </Text>
 
-          <Subheading>May 2023</Subheading>
-          <Text>My first month at TD Bank was filled with a lot of information, documentation, and security training. 
-            The first couple weeks at TD Bank was exciting as I was tasked with learning new technologies on-the-job, learning and using technologies such as Java, Selenium, Gherkin and Cucumber.
-            After 1 week of training, I was assigned my roadmap, which was a scheduled list of tasks that were to be completed week-by-week.
-            The roadmap assigned to me was focused on consolidating and grouping existing test cases together to minimize the time that it took to run test cases on Jenkins.
-            The goal of the roadmap was to complete 3 objects in the span of 3 months.
-            At first glance, this was an easy task but it was a lot harder than anticipated as the test cases assigned to me were all broken and out-dated.
-            This meant that I had to fix and debug all of the test cases in order to complete them, which was not expected by my supervisors and managers.
-            Due to the circumstance, I notified my supervisor that this roadmap was unrealstic and it would be more likely that 1 object was achieved, but this was never updated to my manager, Priya which led to misunderstandings in the future.
-
-
+          <Subheading>January 2024</Subheading>
+          <Text>My first month at RBC was filled with security training and tons of learning and researching. 
+            The first couple weeks at RBC was exciting as I got to learn about all the fundamental AI and prompt engineering concepts. I also learned about new technologies and frameworks while on-the-job, using Python, Langchain, and Azure OpenAI to run my very first AI program locally!
+            After some training, I was tasked with researching and developing an AI model that used retrieval-augmented generation. First, I had to thoroughly research retrieval-augmented generation (RAG). 
+            In case you don't know, RAG is a technique that uses vector databases to retrieve relevant information, which then gets sent to an LLM (large-language model), such as OpenAI to help them generate a more ideal answer. With a vector database, it allows for the storage of tons of context, allowing an LLM to become highly knowledgable in any topic.
+            RAG also processes information quicker and saves tokens (money) when used at larger scales since it doesn't depend on the knowledge of previous prompts in a conversation with the LLM.
+            With RAG, retrieval from the database can be used in 2 different ways, either for RetrievalQA (question and answer by the LLM) or Summarization (a summarization generated by the LLM).
+            With this gained knowledge, I developed a basic AI model that used retrieval-augmented generation (RAG), using Python with HuggingFace for vector storing and Langchain for retrieval of vectors.
+            After developing this basic model, I started to work on developing a proof of concept (POC) RAG program to determine if it was worth transition the team's prompting technique.
           </Text>
-          <Text>Overall in my first month, I was able to fix and group together 28 test cases!</Text>
 
-          <Subheading>June 2023</Subheading>
+          <Subheading>February 2024</Subheading>
           <Text>
-            In my second month, I continued to work on grouping and fixing test cases. In this period of time, I became a lot more comfortable and familiar with the technologies used and was able to fix and debug much more complex test
-            cases on my own! After some experience using the languages, I was confident in my ability to problem solve and debug test cases on my own and was able to fix test cases at a significantly faster rate.
-            I also learned how to use tools such as JIRA and JTMF which was very important for my assigned task. Using tools such as JIRA and JTMF allowed me to better understand the purpose of the test cases,
-            allowing me to group them better and to fix them more confidently without needing to ask my coworkers or supervisors for help. I was also assigned to complete small tasks such as WalkMe testing, which
-            allowed me to work with coworkers in my POD to perform detailed and thorough testing on the user interface (UI) of the Business Banking Hub website. In my second month, I kept running into one problem - when I was stuck while debugging or tried to communicate my status
-            to my POD lead or supervisor, I was often ignored or neglected, yet I was still expected to complete the tasks on-time and to have it complete at the end of every week. However, coworkers and other interns in my team
-            were very kind and would reach out quickly to help instead. These coworkers - specifically Nithin (a coworker who supervised a different POD) were very kind and helpful and always reached out
-            to me when I needed help or had any questions.
+            In my second month, I developed the proof of concept RAG program with summarization, running and comparing it with the original In-Context Learning program and evaluating the results.
+            The results concluded that the summarization RAG technique was not suitable for the use case of the project, and that RetrievalQA was more ideal.
+            Shortly after, I was assigned a group task to focus on, which was the optimization of the existing prompt chain that the team was using. The prompt chain consisted of 10-12 prompts
+            and was using too many tokens. This was because the In-Context Learning technique adds the previous conversation history into the next prompt, which accumulates token usage exponentially.
+            As a result, I was tasked with optimizing the prompt chain to lower the amount of tokens used for each execution. To optimize the prompt chain, I proposed 2 different ideas, both segmenting the prompt chain into 2 separate chains.
+            Both ideas led to a reduction in tokens and also reduced the runtime which was great progress! The only drawback from these optimizations were the slight decrease in the quality of repsonses from the LLM.
+            After some careful analysis and testing, the optimization ideas were proposed to my manager.
+            Lastly for this month, I was also tasked with looking at different Text Splitters and determining which one gave the best and most consistent results from the LLM.
+            The conclusive result from this task was that the Recursive Text Splitter was the best as it was most consistent across different types of loaded data, such as .txt files, .pdf files and even websites.
           </Text>
-          <Text>In my second month, I was able to fix and group together 55 test cases, while working on alternate testing tasks as well!</Text>
 
-          <Subheading>July 2023</Subheading>
+          <Subheading>March 2024</Subheading>
           <Text>
-            In my third month at TD Bank, I began to feel a lot more confident and proficient with the technologies used and I also had the opportunity to work on different tasks as well!
-            The first two weeks consisted of closing out test cases for the originally assigned area of the object, as well as learning how to use a new software tool, Jenkins. I learned how to use Jenkins and built my
-            own Jenkins builds (also known as jobs) to execute test cases that I had been working on up until that point in time. I was also tasked with creating my own test case and scripts! One of the test cases I created was to automate searching a table and asserting that its results
-            resembled an excel spreadsheet which had the expected titles, descriptions, code numbers, and much more. Other test cases consisted of validating new components in the user interface of the Business Banking Hub website.
-            Being able to write my own tests was very eye-opening and exciting as I got to write my own code for once, instead of analyzing, optimizing, and debugging pre-existing code.
-            It was very insightful and challenged my thinking as I had to find the most optimal and efficient way of writing the test cases if it was being ran for thousands of lines and for hours during test automation.
-            Afterwards, I was assigned a different aspect of the object to work on. I continued to consolidate and group more test cases together, where more difficult and challenging problems arose due to the
-            test cases being even more out-dated (the test scripts were all 6+ months old).
-            
+            In my third month, I proposed the optimization ideas to my manager and received feedback on the optimizations. With some revisions made, I worked on improving the approaches and eventually got the opportunity to demo and present the approach to 100+ employees in the team!
+            Before getting to demo, we wanted to find a solution to another problem that we found during the prompt development phase. During this phase, we realized it was time-consuming and difficult to determine whether the changes we were making to the prompt were good or bad.
+            When working on our approaches, it would take hours to test and evaluate the quality of outputs from a single run and to ensure consistency, we had to repeat this process 5 times.
+            To solve this problem, we researched different LLM evaluation frameworks that could be used to simplify the process. With a list of possible frameworks, we presented the findings to my manager and worked on trying to integrate some of them into our machines.
+            This proved to be a challenging task as the frameworks had difficulty integrating with the gateway that was being used to ensure privacy. With some problem solving, customizations were made to the framework which allow interaction with the gateway, and ultimately the Azure OpenAI model.
+            At first, I implemented MLFlow which was not very helpful as it did not have consitent and accurate scores for the metrics provided. Afterwards, I implemented SciKit which was a great backup evaluation,
+            using cosine similarity to determine how similar 2 bodies of text were. Last but not least, I integrated PromptFoo which turned out to be a great tool! It provided tons of metrics that were great for the team's use case and had the ability to customize basically anything.
+            With the ability to customize to the team's needs, I integrated the gateway with it and customized the prompting and outputs to use the least amount of tokens possible. With a great use case made, I proposed and demo'd the framework to my manager.
+            My manager was very satisfied with the results and we got to demo this as a part of our presentation. This is a moment I'm very proud of as I got to demo this framework, explaining what it is and how to use it from start to finish for 15 minutes!
+            After the demo, my manager wanted to turn PromptFoo into a prompt development toolkit that others could use. To achieve this, I created a documentation package and developed more use cases for PromptFoo, allowing others to setup the framework and use it easily.
+            On top of the demo, I also hosted meetings with Senior Developers and Directors to integrate PromptFoo into their workflow. After this meeting, I began to work with many of them to help set PromptFoo up and to create specific use cases for them, which involved customizations to the framework and its configurations.
           </Text>
-          <Text>Nonetheless, I was still able to fix and group together 68 test cases and also created my own test cases which are deployed as well!</Text>
 
-          <Subheading>August 2023</Subheading>
+          <Subheading>April 2024</Subheading>
           <Text>
             In my final month, I aimed to complete as many test cases as possible in the newly assigned component of the object.
             I continued to group and fix test cases as fast as possible, utilizing all of the technologies that I have learned throughout the work term! I used Java, Selenium, Gherkin, and Cucumber to group, debug, and run the test cases.
