@@ -21,8 +21,8 @@ const App = () => {
           <Section>
           <Text class="text" id="intro-section">
 
-            During my 4 month work-term at TD Bank, I worked as a Quality Engineer on the Business Banking Hub team, which is a project that is still in-progress. My experience at TD Bank was great, surrounded with a positive work environment and coworkers who helped me along the way! 
-            I learned a lot throughout this work-term, learning many new skills and gaining more insight on the industry which I will carry with me in my future endeavours.
+            In the past 4 months at RBC, I worked as a Developer on the Data & Analytics (DNA) team. My experience at RBC has been amazing! I have been surrounded in such a positive and supportive work environment with coworkers and mentors who have helped me along the way.
+            I learned a lot throughout this work-term, learning many new skills, lessons and insight on the industry which I will carry with me into my Summer term with RBC, as well as my future endeavours.
 
           </Text>
         </Section>
@@ -33,11 +33,11 @@ const App = () => {
         <Section>
           <Heading>What is RBC?</Heading>
           <Text>
-            Toronto-Dominion Bank (TD Bank) is a Canadian banking and financial service corporation that has existed since the 19th century. TD Bank is one of the largest banks in North America, competing with banks such as Royal Bank of Canada (RBC),
+            Royal Bank of Canada (RBC) is a financial service corporation that has existed since the 19th century. RBC is one of the largest banks in North America, competing with banks such as TD Bank,
             Bank of Montreal (BMO), JPMorgan Chase, and Bank of America. The products and services provided to customers consist of banking, investing, and insurance and is delivered to people, businesses, and even institutions.
-            TD Bank is well-known for their convenience and customer service, and their commitment towards innovation and new technology in banking.
+            RBC is well-known for their convenience and customer service, and their commitment towards innovation and new technology in banking.
           </Text>
-          <Subheading>What is Business Banking Hub?</Subheading>
+          <Subheading>What is Data & Analytics (DNA)?</Subheading>
           <Text>
             The Business Banking Hub is an ongoing project which will be used between business clients and workers at TD. The project serves as a separate banking platform/service for businesses. It is used to support and meet
             the financial need of businesses, which can vary from large corporations to small businesses.
