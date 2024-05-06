@@ -10,8 +10,8 @@ const Header = () => {
         <a href="#scroll-top">Introduction</a>
         <a href="#intro-section">Employer Info.</a>
         <a href="#info-section">Goals</a>
-        <a href="#goals-section">Job Description</a>
-        <a href="#desc-section">Conclusion</a>
+        <a href="#job-section">Job Description</a>
+        <a href="#conclusion">Conclusion</a>
         <a href="#acknowledgements">Acknowledgements</a>
       </div>
       <div

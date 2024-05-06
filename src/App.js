@@ -21,7 +21,7 @@ const App = () => {
           <Section>
           <Text class="text" id="intro-section">
 
-            In the past 4 months at RBC, I worked as a Developer on the Data & Analytics (DNA) team. My experience at RBC has been amazing! I have been surrounded in such a positive and supportive work environment with coworkers and mentors who have helped me along the way.
+            In the past 4 months at RBC, I worked as a Developer on the Data & Analytics (DNA) team. My experience at RBC has been amazing! I've been surrounded in such a positive and supportive work environment with coworkers and mentors who have helped me along the way.
             I learned a lot throughout this work-term, learning many new skills, lessons and insight on the industry which I will carry with me into my Summer term with RBC, as well as my future endeavours.
 
           </Text>
@@ -34,12 +34,12 @@ const App = () => {
           <Heading>What is RBC?</Heading>
           <Text>
             Royal Bank of Canada (RBC) is a financial service corporation that has existed since the 19th century. RBC is one of the largest banks in North America, competing with banks such as TD Bank,
-            Bank of Montreal (BMO), JPMorgan Chase, and Bank of America. The products and services provided to customers consist of banking, investing, and insurance and is delivered to people, businesses, and even institutions.
-            RBC is well-known for their convenience and customer service, and their commitment towards innovation and new technology in banking.
+            Bank of Montreal (BMO), JPMorgan Chase, and Bank of America. The services provided by RBC consists of banking, investing and insurance, and is delivered to people, businesses, and institutions as well.
+            RBC is well-known for their reliable banking, customer service, and their commitment towards innovating new technology into banking.
           </Text>
           <Subheading>What is Data & Analytics (DNA)?</Subheading>
           <Text>
-            Data & Analytics, also known as DNA, is a team that is involved in many projects. The DNA team is focusing on leveraging AI to drive solutions to many of the problems that RBC has in technology. The team is comprised of more than 200 employees who all work on the development and integration of AI into our workflows. One of the major focuses from the team is NOVA, which is a legacy system and code migration service using AI and prompt engineering. Another big focus was the HSBC acquisition and ensuring a smooth carry-over from one bank to another. The other big focus is the management, use and monitoring of big data.
+            Data & Analytics, also known as DNA, is a team that is involved in many projects. The DNA team focuses on leveraging AI to drive solutions to many of the problems that RBC has in technology. The team is comprised of more than 200 employees who all work on big data and the development and integration of AI into our workflows. One of the major focuses from the team is NOVA, which is a legacy system and code migration service using AI and prompt engineering. Another big focus was the HSBC acquisition and ensuring a smooth carry-over from one bank to another. The other big focus is the management, use and monitoring of big data.
           </Text>
           <Subheading>Interesting Facts</Subheading>
           <Text><Numbered>•</Numbered> RBC was founded in 1864.</Text>
@@ -57,7 +57,7 @@ const App = () => {
           <hr></hr>
           <Text>The goals that I set were to:</Text>
 
-          <Text><Numbered>•</Numbered>	Improve my communication skills working in a team environment, and to build connections with coworkers</Text>
+          <Text><Numbered>•</Numbered>	Improve my communication skills in a team environment and to build connections with coworkers</Text>
           <Text><Numbered>•</Numbered>	Learn new technologies and skills to improve my knowledge and skills in the software industry</Text>
           <Text><Numbered>•</Numbered>	Take initiative in finding new and better ways to solve problems</Text>
 
@@ -68,10 +68,10 @@ const App = () => {
           Learning skills and how to leverage AI will definitely benefit me in the future, as I can use this knowledge and experience to drive more solutions, contribute more and transition easier in my future roles!
           </Text>
 
-          <Text id="goals-section"> 
+          <Text id="job-section"> 
             The technologies I wanted to learn the most were Python, Java, Scala, as well as concepts related to AI and prompt engineering. I wanted to use these technologies as I did not have much knowledge and experience in them before, and I believed they
             would be valuable skills to learn for the future, especially with all the rave and demand for AI in this age of technology. Since the start of my work term, I have learned all the fundamental and advanced concepts of prompt engineering and prompting techniques.
-            I have also learned how to use Python for AI development and how to pair it with OpenAI, Langchain and additional frameworks to run AI models to solve and answer questions. I've also learned how to integrate frameworks into Python
+            I have also learned how to use Python for AI development and how to pair it with OpenAI, Langchain and additional frameworks to run AI models to solve and answer problems. I've also learned how to integrate frameworks into Python
             and gateways, with successful integration of PromptFoo and MLFlow to evalaute responses from an LLM (large-language-model). I have also learned Docker and containerization which will be valuable for other roles in the future as well.
             Although I did not get to use Java and Scala, I am extremely satisfied wtih my progress and the opportunity to learn and hone my knowledge in AI development!
           </Text>
@@ -113,7 +113,7 @@ const App = () => {
           <Subheading>March 2024</Subheading>
           <Text>
             In my third month, I proposed the optimization ideas to my manager and received feedback on the optimizations. With some revisions made, I worked on improving the approaches and eventually got the opportunity to demo and present the approach to 100+ employees in the team!
-            Before getting to demo, we wanted to find a solution to another problem that we found during the prompt development phase. During this phase, we realized it was time-consuming and difficult to determine whether the changes we were making to the prompt were good or bad.
+            Before getting to demo, we wanted to find a solution to another problem that we found during the prompt development phase. During this phase, we realized it was time-consuming and difficult to determine whether the changes we were making to the prompts were good or bad.
             When working on our approaches, it would take hours to test and evaluate the quality of outputs from a single run and to ensure consistency, we had to repeat this process 5 times.
             To solve this problem, we researched different LLM evaluation frameworks that could be used to simplify the process. With a list of possible frameworks, we presented the findings to my manager and worked on trying to integrate some of them into our machines.
             This proved to be a challenging task as the frameworks had difficulty integrating with the gateway that was being used to ensure privacy. With some problem solving, customizations were made to the framework which allow interaction with the gateway, and ultimately the Azure OpenAI model.
@@ -148,9 +148,9 @@ const App = () => {
             I learned so much about AI, and the value of prompt engineering.
             I had the opportunity to learn and grow not only as an Engineer - but as a person, gaining many technical and soft skills which will become valuable for my future work experiences.
             With such new technologies in the world of AI, the role and team pushed me to learn many different concepts, technologies and aspects of AI and prompt engineering which was very eye-opening and revealed a new passion of mine!
-            The primary goal in my young career as a developer is to deploy or work on impactful code that will be used and have a positive impact and I am definitely able to say that I have made an impact with the contributions that I have made in my short time!
-            The relationships and connections that I got to build with my colleagues while at RBC was amazing. Everyone was nice and supportive and it was a pleasure to meet, talk, and work with everybody!
-            I have never enjoyed a co-op work term as much as this one and I can't wait to start the next half of my work term at RBC! I know there is so much more to learn and so much more impact to be made with my work in the next four months and I am more excited than ever!
+            The primary goal in my young career as a developer is to deploy and work on impactful code that will be used and have a positive impact and I am definitely able to say that I have made an impact with the contributions that I have made in my short time!
+            The relationships and connections that I got to build with my colleagues while at RBC was amazing. Everyone was nice and supportive and it was a pleasure to meet and work with everybody!
+            I haven't enjoyed a co-op work term as much as this one and I can't wait to start the next half of my work term at RBC! I know there is so much more to learn and so much more impact to be made with my work in the next four months and I am more excited than ever!
           </Text>
         </Section>
 
