@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 // Import logo and components
 import logo from './assets/logo.jpg';
+import showcase from './assets/showcase.png';
 import Header from './components/header';
 import Footer from './components/footer';
 
@@ -16,13 +17,13 @@ const App = () => {
           <a href="https://www.rbcroyalbank.com/personal.html" class="logo" target="_blank" rel="noreferrer"><img src={logo} alt="Logo"/></a>
         </Logo>
         <div>
-          <Subheading>January 2024 - April 2024</Subheading>
+          <Subheading>May 2024 - August 2024</Subheading>
 
           <Section>
           <Text class="text" id="intro-section">
 
-            In the past 4 months at RBC, I worked as a Developer on the Data & Analytics (DNA) team. My experience at RBC has been amazing! I've been surrounded in such a positive and supportive work environment with coworkers and mentors who have helped me along the way.
-            I learned a lot throughout this work-term, learning many new skills, lessons and insight on the industry which I will carry with me into my Summer term with RBC, as well as my future endeavours.
+            In the past 4 months at RBC, I continued to work as a Developer on the Data & AI team. My experience at RBC has been amazing! I've been surrounded by a positive and supportive work environment with coworkers and mentors who have helped me along the way.
+            I learned a lot throughout this work term, learning many new skills, lessons and insight on the industry which I will carry with me into my future endeavours.
 
           </Text>
         </Section>
@@ -31,136 +32,94 @@ const App = () => {
 
 
         <Section>
-          <Heading>What is RBC?</Heading>
+          <Heading>About RBC</Heading>
           <Text>
             Royal Bank of Canada (RBC) is a financial service corporation that has existed since the 19th century. RBC is one of the largest banks in North America, competing with banks such as TD Bank,
-            Bank of Montreal (BMO), JPMorgan Chase, and Bank of America. The services provided by RBC consists of banking, investing and insurance, and is delivered to people, businesses, and institutions as well.
-            RBC is well-known for their reliable banking, customer service, and their commitment towards innovating new technology into banking.
+            Bank of Montreal (BMO), and Bank of America. The services provided by RBC consist of banking, investing and insurance, and is delivered to individuals, businesses, and institutions alike.
+            RBC is well-known for its reliable banking, customer service, and their commitment toward innovating new technology into banking.
           </Text>
-          <Subheading>What is Data & Analytics (DNA)?</Subheading>
+          <Subheading>What is Data & AI?</Subheading>
           <Text>
-            Data & Analytics, also known as DNA, is a team that is involved in many projects. The DNA team focuses on leveraging AI to drive solutions to many of the problems that RBC has in technology. The team is comprised of more than 200 employees who all work on big data and the development and integration of AI into our workflows. One of the major focuses from the team is NOVA, which is a legacy system and code migration service using AI and prompt engineering. Another big focus was the HSBC acquisition and ensuring a smooth carry-over from one bank to another. The other big focus is the management, use and monitoring of big data.
+            Data & AI is a restructured team that is involved in many projects. After successfully handling the HSBC acquisition, Data & AI was formed to shift focus onto big data and the use of AI both internally and externally.
+            The team is comprised of more than 400 employees who all work on big data, as well as the development and integration of AI. One of the major focuses from the Data & AI department is NOVA, which is the team that I work on!
+            NOVA is a migration service used internally from other departments to migrate from legacy to modern systems and applications. Other focuses within Data & AI are the development of visualization products to help businesses and employees better understand their data.
           </Text>
           <Subheading>Interesting Facts</Subheading>
-          <Text><Numbered>•</Numbered> RBC was founded in 1864.</Text>
-          <Text><Numbered>•</Numbered> Their office is located in Downtown Toronto, with more than 5 tower buildings spanning around Union Station.</Text>
-          <Text id="info-section"><Numbered>•</Numbered>RBC recently made one of the biggest company acquisitions in Canada, by acquiring HSBC.</Text>
+          <Text><Numbered>•</Numbered> RBC was founded in 1864</Text>
+          <Text><Numbered>•</Numbered> RBC recently made one of the biggest company acquisitions in Canada by acquiring HSBC</Text>
+          <Text id="info-section"><Numbered>•</Numbered>RBC ranks third in AI use, innovation, and safety amongst all banks in North America</Text>
         </Section>
 
         <Section>
-          <Heading>Goals</Heading>
-          <Text>
-            Heading into my third work term working as a Developer, I was hesitant as I knew that this role involved the use of AI, but I was super excited to learn. Since I had no prior knowledge of AI when heading into this term, I was unsure of what to expect. 
-            For me, the main goal was to as learn much as possible about AI and to become highly knowledgable in it, as I believe it will be very valuable experience for the future. With the goals that I set, I was aiming to align them with the company's goals,
-            while still allowing myself to grow and develop.
-          </Text>
-          <hr></hr>
-          <Text>The goals that I set were to:</Text>
-
-          <Text><Numbered>•</Numbered>	Improve my communication skills in a team environment and to build connections with coworkers</Text>
-          <Text><Numbered>•</Numbered>	Learn new technologies and skills to improve my knowledge and skills in the software industry</Text>
-          <Text><Numbered>•</Numbered>	Take initiative in finding new and better ways to solve problems</Text>
+          <Heading>Learning Goals</Heading>
+          <Text><Numbered>•</Numbered>	Improve presentation skills</Text>
+          <Text><Numbered>•</Numbered>	Further develop both personal and technical skills</Text>
+          <Text><Numbered>•</Numbered>	Drive more impact on projects and to be a core part of project development</Text>
 
           <hr></hr>
-          <Text>
-          In the past fourth months working at RBC, I believe I made tons of progress and successfully completed the goals that I set. I made significant improvements in all the goals that I set and am happy with the outcome of my learnings!
-          The goal that I am most satisfied with in this work term is my acquired knowledge in AI and all the new cutting-edge technology related to AI. 
-          Learning skills and how to leverage AI will definitely benefit me in the future, as I can use this knowledge and experience to drive more solutions, contribute more and transition easier in my future roles!
+          <Text id="job-section">
+            In my first 4 months at RBC, I received feedback on my performance and the need for improvement specifically in presentations.
+            With more responsibilities and leadership, I've gotten more opportunities to demo and present both my work and achievements. My presentation skills have improved significantly since then, with thorough preparation and practice to ensure my presentations were a success.
+            Another goal I aimed to achieve was developing both my personal and technical skills. Technically, I built a strong foundation in AI development but still wanted to learn much more in-depth.
+            I also wanted to improve my personal skills such as leadership, communication and teamwork.
+            Lastly, I wanted to drive more impact on projects, taking on more responsibilities and tasks to be a core part of the projects' development and progression.
           </Text>
-
-          <Text id="job-section"> 
-            The technologies I wanted to learn the most were Python, Java, Scala, as well as concepts related to AI and prompt engineering. I wanted to use these technologies as I did not have much knowledge and experience in them before, and I believed they
-            would be valuable skills to learn for the future, especially with all the rave and demand for AI in this age of technology. Since the start of my work term, I have learned all the fundamental and advanced concepts of prompt engineering and prompting techniques.
-            I have also learned how to use Python for AI development and how to pair it with OpenAI, Langchain and additional frameworks to run AI models to solve and answer problems. I've also learned how to integrate frameworks into Python
-            and gateways, with successful integration of PromptFoo and MLFlow to evalaute responses from an LLM (large-language-model). I have also learned Docker and containerization which will be valuable for other roles in the future as well.
-            Although I did not get to use Java and Scala, I am extremely satisfied wtih my progress and the opportunity to learn and hone my knowledge in AI development!
-          </Text>
-
         </Section>
 
         <Section>
           <Heading>Job Description</Heading>
           <Text>
-            My time at RBC was entirely in the NOVA team under DNA. The sole focus of this team and project was to deliver a legacy code migration service, allowing users to accurately convert code from one programming language to another.
+            My time at RBC was entirely in the NOVA team under Data & AI. The sole focus of this team and project was to deliver an internal migration service, allowing other departments to migrate from legacy systems to modern ones.
             For the entire work term, I focused on the research, implementation, and development of AI for many different tasks and projects. As this role is more research & development (R&D) centric, there are less quantifiable deliverables.
                    
           </Text>
 
-          <Subheading>January 2024</Subheading>
-          <Text>My first month at RBC was filled with security training and tons of learning and researching. 
-            The first couple weeks at RBC was exciting as I got to learn about all the fundamental AI and prompt engineering concepts. I also learned about new technologies and frameworks while on-the-job, using Python, Langchain, and Azure OpenAI to run my very first AI program locally!
-            After some training, I was tasked with researching and developing an AI model that used retrieval-augmented generation. First, I had to thoroughly research retrieval-augmented generation (RAG). 
-            In case you don't know, RAG is a technique that uses vector databases to retrieve relevant information, which then gets sent to an LLM (large-language model), such as OpenAI to help them generate a more ideal answer. With a vector database, it allows for the storage of tons of context, allowing an LLM to become highly knowledgable in any topic.
-            RAG also processes information quicker and saves tokens (money) when used at larger scales since it doesn't depend on the knowledge of previous prompts in a conversation with the LLM.
-            With RAG, retrieval from the database can be used in 2 different ways, either for RetrievalQA (question and answer by the LLM) or Summarization (a summarization generated by the LLM).
-            With this gained knowledge, I developed a basic AI model that used retrieval-augmented generation (RAG), using Python with HuggingFace for vector storing and Langchain for retrieval of vectors.
-            After developing this basic model, I started to work on developing a proof of concept (POC) RAG program that performed a legacy code explaination, to determine if it was worth transition the team's prompting technique.
-          </Text>
-
-          <Subheading>February 2024</Subheading>
+          <Subheading>May 2024 - July 2024</Subheading>
           <Text>
-            In my second month, I developed the proof of concept RAG program with summarization, running and comparing it with the original In-Context Learning program and evaluating the results.
-            The results concluded that the summarization RAG technique was not suitable for the use case of the project, and that RetrievalQA was more ideal.
-            Shortly after, I was assigned a group task to focus on, which was an optimization on the existing prompt chain that the team was using. The prompt chain consisted of 10 - 12 prompts
-            and was using too many tokens. This was because the In-Context Learning technique adds the previous conversation history into the next prompt, which accumulates token usage exponentially.
-            As a result, I was tasked with optimizing the prompt chain to lower the amount of tokens used for each execution. To optimize the prompt chain, I proposed 2 different ideas, with both segmenting the prompt chain into 2 separate chains.
-            Both ideas led to a reduction in tokens and also reduced the runtime which was great progress! The only drawback from these optimizations were the slight decrease in the quality of repsonses from the LLM.
-            After some careful analysis and testing, the optimization ideas were proposed to my manager.
-            Lastly for this month, I was also tasked with looking at different Text Splitters and determining which one gave the best and most consistent results from the LLM.
-            The conclusive result from this task was that the Recursive Text Splitter was the best as it was most consistent across different types of loaded data, such as .txt files, .pdf files and even websites.
-          </Text>
+            From May to July, I worked on two major projects that became a core part of NOVA's features.
+            Both projects aimed to leverage AI in new ways to increase the productivity of employees internally.
+            One of the projects was the Application Assessment, a service that would take a legacy application's data and evaluate where would be the best fit under RBC's modern platforms.
+            In this project, I co-wrote features and began to research new tools and frameworks that could be useful. One of them was LangGraph, a state graph package that allowed for agent workflows to be created. I implemented the agent workflow into the Application Assessment and added an automated process to standardize and self-improve LLM answers.
+            The other project I built was a code conversion framework that allowed for migration from legacy code languages to modern ones. Using a similar agent workflow, additional technologies were added cohesively to retrieve relevant code samples and iteratively evaluate and improve LLM responses to produce high quality code.
+            I had the opportunity to present and demo both projects and they were received well, with decisions made to proceed to production with them.
+            </Text>
 
-          <Subheading>March 2024</Subheading>
-          <Text>
-            In my third month, I proposed the optimization ideas to my manager and received feedback on the optimizations. With some revisions made, I worked on improving the approaches and eventually got the opportunity to demo and present the approach to 100+ employees in the team!
-            Before getting to demo, we wanted to find a solution to another problem that we found during the prompt development phase. During this phase, we realized it was time-consuming and difficult to determine whether the changes we were making to the prompts were good or bad.
-            When working on our approaches, it would take hours to test and evaluate the quality of outputs from a single run and to ensure consistency, we had to repeat this process 5 times.
-            To solve this problem, we researched different LLM evaluation frameworks that could be used to simplify the process. With a list of possible frameworks, we presented the findings to my manager and worked on trying to integrate some of them into our machines.
-            This proved to be a challenging task as the frameworks had difficulty integrating with the gateway that was being used to ensure privacy. With some problem solving, customizations were made to the framework which allow interaction with the gateway, and ultimately the Azure OpenAI model.
-            At first, I implemented MLFlow which was not very helpful as it did not have consitent and accurate scores for the metrics provided. Afterwards, I implemented SciKit which was a great backup evaluation,
-            using cosine similarity to determine how similar 2 bodies of text were using vectors. Last but not least, I integrated PromptFoo which turned out to be a great tool! It provided tons of metrics that were great for the team's use case and had the ability to customize basically anything.
-            With the ability to customize to the team's needs, I integrated the gateway with it and customized the prompting and outputs to use the least amount of tokens possible. With a great use case made, I proposed and demo'd the framework to my manager.
-            My manager was very satisfied with the results and we got to demo this as a part of our presentation. This is a moment I'm very proud of as I got to demo this framework, explaining what it is and how to use it from start to finish for 15 minutes!
-            After the demo, my manager wanted to turn PromptFoo into a prompt development toolkit that others could use. To achieve this, I created a documentation package and developed more use cases for PromptFoo, allowing others to setup the framework and use it easily.
-            On top of the demo, I also hosted meetings with Senior Developers and Directors to integrate PromptFoo into their workflows. After this meeting, I began to work with many of them to help set PromptFoo up and to create specific use cases for them, which involved customizations to the framework and its configurations.
-          </Text>
-
-          <Subheading>April 2024</Subheading>
-          <Text>
-            I began my final month by continuing to build specific PromptFoo use cases and examples for others, helping them with their prompt development worfklow and simplifying the prompt evaluation process.
-            While I was building these use cases, I was assigned a new project and task as well. For this project, I first had to understand the codebase, the functionality of the code and the purpose of the code. The project was an application assessment tool that uses an LLM to help suggest which platform an application is best suitable for.
-            This tool was being built with the intention of being featured as one of NOVA's services.
-            It took less than a week to set up and understand the code. Shortly after, I worked alongside my manager to meet with a handful of employees that were each experts in their respected platforms, to build realistic and detailed platform characteristics that can be used in the assessment.
-            Working with employees to build the characteristics did not go as planned, due to the lack of detail and help that these employees provided.
-            As a result, I was tasked with reading through the specific platform's documentation packages, to build better characteristics.
-            I also was assigned to change the output structure from the code, converting it from strings to JSON objects so that it could be used for API requests in the actual NOVA service.
-            This was more challenging than expected, as the quality of the LLM responses drastically dropped when changing the output structure. With some problem solving and prompt engineering, I was able to resolve this problem and match the original quality of responses.
-          </Text>
-          <br></br>
-          <hr></hr>
+          <Subheading>August 2024</Subheading>
+          <div className="showcase-section">
+            <div className="showcase-text">
+              <Text>
+                After decisions were made to move to production with the features, I worked closely with the development team (front-end and full-stack developers) to build the features so that they met our requirements and expectations. Frequent communication with other teams was required to integrate the back-end frameworks that I built.
+                As the features progressed and I began to offboard, I was tasked with filling out tons of documentation and creating over a dozen test cases for each feature to ensure that performance of the features can be monitored.
+                The last task that I had was updating the Model Documentation report which was sent to stakeholders and RBC employees. To update the report, I had to meet with several teams to discuss the new features being released and their use of AI models in them.
+                In August, I was also nominated for the Senior Leadership Team (SLT) Student Showcase event by my manager, Will. The SLT Student Showcase event is an event where the top 5 performing co-op students are nominated to present their achievements and experiences to the leadership team.
+                This was an amazing experience as many of the Vice-Presidents (VPs) present were interested in my experiences and knowledge in AI, and were keen to have me return as a full-time employee in the future.
+            </Text>
+            </div>
+            <div className="showcase-img">
+              <img src={showcase} alt="RBC Student Showcase - Summer 2024" />
+              <p className="img-description">RBC Student Showcase - Summer 2024</p>
+            </div>
+          </div>
         </Section>
 
         <Section id="conclusion">
           <Heading>Conclusion</Heading>
           <Text>
-            Overall, I had an amazing experience working at RBC for my third work term!
-            I am forever thankful for the opportunity that RBC and my manager has given me, to learn new cutting-edge technology and to develop my skills in such impactful projects.
-            I learned so much about AI, and the value of prompt engineering.
-            I had the opportunity to learn and grow not only as an Engineer - but as a person, gaining many technical and soft skills which will become valuable for my future work experiences.
+            Overall, I had an amazing experience working at RBC!
+            I am forever thankful for the opportunity that RBC and my manager has given me to learn new, cutting-edge technology and to develop my skills in such impactful projects.
+            I learned so much about AI and had the opportunity to learn and grow not only as an Engineer - but as a person, gaining many technical and soft skills which will become valuable for my future work experiences.
             With such new technologies in the world of AI, the role and team pushed me to learn many different concepts, technologies and aspects of AI and prompt engineering which was very eye-opening and revealed a new passion of mine!
-            The primary goal in my young career as a developer is to deploy and work on impactful code that will be used and have a positive impact and I am definitely able to say that I have made an impact with the contributions that I have made in my short time!
-            The relationships and connections that I got to build with my colleagues while at RBC was amazing. Everyone was nice and supportive and it was a pleasure to meet and work with everybody!
-            I haven't enjoyed a co-op work term as much as this one and I can't wait to start the next half of my work term at RBC! I know there is so much more to learn and so much more impact to be made with my work in the next four months and I am more excited than ever!
+            The primary goal in my young career as a software engineer is to deploy and work on impactful code that will be used and have a positive effect and I am definitely able to say that I have made an impact with the contributions that I have made in my short time!
           </Text>
         </Section>
 
         <Section id="acknowledgements">
           <Heading>Acknowledgements</Heading>
-          <Text><Numbered>•</Numbered> My greatest appreciation goes to my manager Will, who has given me the opportunity to join his team and to learn so much about AI and prompt engineering. Will has also given me tons of honest feedback and advice for me throughout the work term, and was always trying his best to support me with my goals and work.
+          <Text><Numbered>•</Numbered> My greatest appreciation goes to my manager Will who has given me the opportunity to continuously learn about AI and drive impact. With his feedback, I've improved drastically and have made the appropriate changes to drive success with the team.
           </Text>
-          <Text><Numbered>•</Numbered>	Thanks to everybody on the DNA team. In the past four months, I have met so many employees on the DNA team from different departments and everyone is extremely nice. RBC has a positive and supportive work culture like no other!
+          <Text><Numbered>•</Numbered>	Thanks to everybody on the Data & AI team. In the past eight months, I have met so many employees across RBC and have built such great connections with everyone here!
           </Text>
-          <Text><Numbered>•</Numbered> A big thanks to Clarice and Bindu for helping speed the hiring process and secure my co-op offer. At one point, I did not think I would hear back in-time from RBC as I had no more declines left from other offers that were on the table.</Text>
+          <Text><Numbered>•</Numbered> A big thanks to Wilfredo and Mike for leading such a talented team and for their support. Even as a Senior Director and VP, they have made time to meet and chat with me throughout the work-term.</Text>
         </Section>
 
         <Footer/>

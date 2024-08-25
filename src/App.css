@@ -90,6 +90,37 @@
   display: none;
 }
 
+.showcase-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.showcase-text {
+  width: 50%;
+  text-align: left;
+  margin-right: 50px;
+}
+
+.showcase-img {
+  width: 50%;
+  margin-left: 20px;
+}
+
+.showcase-img img {
+  width: 100%;
+  height: auto;
+  border: 2px solid black;
+}
+
+.img-description {
+  font-size: 14px;
+  margin-top: 5px;
+  color: black;
+  font-weight: bold;
+}
+
 @media (max-width: 100px) {
   .navbar > .nav-items {
     position: fixed;
